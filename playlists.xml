@@ -1,0 +1,17 @@
+<playlists>
+	<playlist>
+		<filename>C:\Users\Christabel\Documents\Auto Playlist Updater\testlist.m3u</filename>
+		<folders>
+			<folder recursive="false">C:\Users\Christabel\Music\</folder>
+
+
+			<folder recursive="false">C:\Users\Christabel\Music2\</folder>
+		</folders>
+	</playlist>
+	<playlist>
+		<filename>C:\Users\Christabel\Documents\Auto Playlist Updater\testlist2.m3u</filename>
+		<folders>
+			<folder recursive="false">C:\Users\Christabel\Music3</folder>
+		</folders>
+	</playlist>
+</playlists>
